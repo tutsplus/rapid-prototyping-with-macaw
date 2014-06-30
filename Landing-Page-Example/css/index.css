@@ -1,0 +1,334 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.48 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.btn-primary {
+  display: block;
+  clear: both;
+  border-radius: 3px;
+  background-color: rgb(5, 138, 233);
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(187, 227, 255);
+}
+
+.container {
+  float: left;
+}
+
+.container .text {
+  position: relative;
+  clear: both;
+  z-index: 3;
+  width: 33px;
+  min-height: 34px;
+  margin: -29px 0 0 81.40902%;
+  font: normal 1em/1.38 FontAwesome;
+}
+
+.cta {
+  float: left;
+  clear: both;
+  width: 960px;
+  height: 169px;
+  margin: 30px 0 0 10%;
+  padding: 20px 50px;
+  background-color: rgb(52, 50, 50);
+}
+
+.cta .btn-primary {
+  float: right;
+  width: 226px;
+  height: 46px;
+  margin: -72px -0.0017% 0 0;
+  font-size: 1.125em;
+  font-weight: 400;
+}
+
+.custom-input {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 226px;
+  height: 36px;
+  margin-left: -0.00691%;
+  padding: 0 10px;
+  border: 1px solid #b3b3b3;
+  border-radius: 50px;
+  background-color: rgb(255, 255, 255);
+  font-size: 0.813em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.facebook-icon {
+  float: left;
+  width: 47px;
+  min-height: 33px;
+  margin-left: 9.24577%;
+  font: normal 1.25em/1.38 FontAwesome;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.image {
+  display: block;
+  float: left;
+  width: 76px;
+  height: auto;
+  overflow: hidden;
+}
+
+.linkedin-icon {
+  float: left;
+  width: 47px;
+  min-height: 33px;
+  margin-left: 9.62171%;
+  font: normal 1.25em/1.38 FontAwesome;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.logo {
+  display: block;
+  float: left;
+  width: 132px;
+  height: auto;
+  margin: 37px 0 0 6.49902%;
+  overflow: hidden;
+}
+
+.nav {
+  float: left;
+  width: 301px;
+  min-height: 26px;
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+}
+
+.rss-icon {
+  float: left;
+  width: 47px;
+  min-height: 33px;
+  margin-left: 9.72744%;
+  font: normal 1.25em/1.38 FontAwesome;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.site-footer {
+  float: left;
+  clear: both;
+  width: 337px;
+  height: 213px;
+  margin: 100px 0 0 36%;
+}
+
+.site-footer .image {
+  margin-left: 38.8724%;
+  opacity: 0.2;
+}
+
+.site-footer .nav {
+  clear: both;
+  margin: 22px 0 0 5.33661%;
+  text-align: center;
+}
+
+.site-footer .text {
+  clear: both;
+  width: 337px;
+  min-height: 65px;
+  margin: 21px 0 0 -0.00464%;
+  font-size: 0.875em;
+  font-weight: 400;
+  line-height: 1.38;
+}
+
+.site-header {
+  float: left;
+  width: 960px;
+  height: 100px;
+  margin-left: 10%;
+  background-color: rgb(232, 232, 232);
+}
+
+.site-header .container {
+  width: 226px;
+  height: 41px;
+  margin: 30px 0 0 3.95833%;
+}
+
+.site-header .nav {
+  margin: 39px 0 0 14.3131510416%;
+  text-align: right;
+}
+
+.text {
+  float: left;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.twitter-icon {
+  float: left;
+  width: 47px;
+  min-height: 33px;
+  font: normal 1.25em/1.38 FontAwesome;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.cta ._text {
+  float: left;
+  width: 225px;
+  min-height: 39px;
+  margin: 15px 0 0 0.30231%;
+  font-size: 2.25em;
+  font-weight: 700;
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.btn-primary-1 {
+  float: left;
+  width: 307px;
+  height: 80px;
+  margin: 40px 0 0 37.16667%;
+  font-size: 1.438em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.container-2 {
+  clear: both;
+  width: 265px;
+  height: 33px;
+  margin: 40px 0 0 38.91667%;
+}
+
+.image-1 {
+  position: relative;
+  clear: both;
+  z-index: 9;
+  margin: 100px 0 0 19.91667%;
+}
+
+.image-2 {
+  position: relative;
+  z-index: 10;
+  margin: 100px 0 0 20.66276%;
+}
+
+.image-3 {
+  position: relative;
+  z-index: 11;
+  margin: 100px 0 0 20.57422%;
+}
+
+.text-2 {
+  position: relative;
+  clear: both;
+  z-index: 15;
+  width: 307px;
+  min-height: 153px;
+  margin: 40px 0 0 10%;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.text-3 {
+  position: relative;
+  z-index: 16;
+  width: 307px;
+  min-height: 153px;
+  margin: 40px 0 0 1.59896%;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.text-4 {
+  position: relative;
+  z-index: 17;
+  width: 307px;
+  min-height: 153px;
+  margin: 40px 0 0 1.59896%;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+._text-2 {
+  float: left;
+  clear: both;
+  width: 535px;
+  min-height: 39px;
+  margin: 59px 0 0 27.75%;
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._text-3 {
+  float: left;
+  clear: both;
+  width: 225px;
+  min-height: 39px;
+  margin: 20px 0 0 40.66667%;
+  font-size: 1.688em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._text-4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 12;
+  width: 225px;
+  min-height: 39px;
+  margin: 20px 0 0 13.66667%;
+  font-size: 1.688em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._text-5 {
+  position: relative;
+  float: left;
+  z-index: 13;
+  width: 225px;
+  min-height: 39px;
+  margin: 20px 0 0 8.19922%;
+  font-size: 1.688em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._text-6 {
+  position: relative;
+  float: left;
+  z-index: 14;
+  width: 225px;
+  min-height: 39px;
+  margin: 20px 0 0 7.88021%;
+  font-size: 1.688em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
